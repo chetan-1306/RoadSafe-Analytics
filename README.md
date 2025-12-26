@@ -1,2 +1,2 @@
 # RoadSafe-Analytics
-RoadSafe Analytics Road Accidents Exploratory - Infosys
+RoadSafe Analytics Road Accidents Exploratory (EDA)
